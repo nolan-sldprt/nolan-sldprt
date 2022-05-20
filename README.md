@@ -6,9 +6,7 @@
   <a href="https://www.linkedin.com/in/nolanjcain/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="nolan.cain@dal.ca">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/2086px-Microsoft_Outlook_2013-2019_logo.svg.png" alt="Outlook Badge"/>
-  </a>
+
 </div>
 
 
