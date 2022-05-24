@@ -22,7 +22,7 @@ Bachelor of Engineering, Mechanical :gear:
 Dalhousie University  
 Class of 2022
 
-Research Associate at Dalhousie University's Intelligent Systems Laboratory. Working on ROS2 node developemnt for underwater vehicles.
+Research Associate at Dalhousie University's Intelligent Systems Laboratory. Working on ROS 2 node developemnt for underwater vehicle behaviours.
 
 In my free time I enjoy skiing :skier:, surfing :surfing_man:, rock climbing :climbing:, and being outside!
 
