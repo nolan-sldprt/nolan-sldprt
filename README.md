@@ -32,6 +32,7 @@ Platforms:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" height="50" width="50"/>
 <img src="https://siminnovations.com/wiki/images/7/7a/Arduino_logo_round.png" height="50" width="50"/>
 <img src="https://wyday.com/images/lm/langs/vba.svg" height="50" width="50"/>
+<img src="https://avatars.githubusercontent.com/u/3979232?s=280&v=4" height="70" width="70"/>
 
 CAD:  
 <img src="https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/26b1fd683c8a797760941eddc1082193/large.png" height="50" width="65"/>
