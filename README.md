@@ -29,7 +29,7 @@ Platforms:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="50" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" height="50" width="50"/>
 <img src="https://siminnovations.com/wiki/images/7/7a/Arduino_logo_round.png" height="50" width="50"/>
-<img src="https://wyday.com/images/lm/langs/vba.svg" height="50" width="50"/>
+<img src="https://wyday.com/images/lm/langs/vba.1.svg" height="50" width="50"/>
 <img src="https://avatars.githubusercontent.com/u/3979232?s=280&v=4" height="70" width="70"/>
 
 CAD:  
