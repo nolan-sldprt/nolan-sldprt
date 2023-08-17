@@ -14,13 +14,12 @@
 </br>
 
 
-
-Bachelor of Engineering, Mechanical :gear:  
-<img src="http://www.dal.ca/etc/designs/dalhousie/clientlibs/global/default/images/favicon/DALSocialMediaMark-Blk.png" height="15" width="15"/>
-Dalhousie University  
+Bachelor of Engineering, Mechanical :gear: with Co-op\
+Dalhousie University
+<img src="http://www.dal.ca/etc/designs/dalhousie/clientlibs/global/default/images/favicon/DALSocialMediaMark-Blk.png" height="15" width="15"/>,
 Class of 2022
 
-Research Associate at Dalhousie University's Intelligent Systems Laboratory. Working on ROS 2 node developemnt for underwater vehicle behaviours.
+M.A.Sc. Student at Dalhousie University. Studying autonomous robotics.
 
 In my free time I enjoy skiing :skier:, surfing :surfing_man:, rock climbing :climbing:, and being outside!
 
@@ -59,29 +58,3 @@ Interested in what I do? Feel free to reach out!
   <a href="nolan.cain@dal.ca">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/2086px-Microsoft_Outlook_2013-2019_logo.svg.png" alt="Outlook Badge"/>
   </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
