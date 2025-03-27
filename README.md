@@ -30,6 +30,7 @@ Platforms:
 <img src="https://siminnovations.com/wiki/images/7/7a/Arduino_logo_round.png" height="50" width="50"/>
 <img src="https://wyday.com/images/lm/langs/vba.1.svg" height="50" width="50"/>
 <img src="https://avatars.githubusercontent.com/u/3979232?s=280&v=4" height="70" width="70"/>
+<img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" height="32" width="126"/>
 
 CAD:  
 <img src="https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/26b1fd683c8a797760941eddc1082193/large.png" height="50" width="65"/>
