@@ -1,4 +1,4 @@
-## Nolan Cain
+# Nolan Cain
 ### M.A.Sc., B.Eng., Mechanical E.I.T.
 
 <div id="header" align="center">
