@@ -57,7 +57,7 @@ In my free time I enjoy skiing :skier:, surfing :surfing_man:, rock climbing :cl
 
 </br>
 
-Interested in what I do? Feel free to reach out!
+Interested in what I do? Feel free to reach out on LinkedIn!
 
 
 <!--
