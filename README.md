@@ -1,5 +1,5 @@
 # Nolan Cain
-### M.A.Sc., B.Eng., Mechanical E.I.T.
+### M.A.Sc., B.Eng., E.I.T.
 
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
