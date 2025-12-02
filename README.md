@@ -5,11 +5,12 @@
   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
-<div id="badges" align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/nolanjcain/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-nolanjcain-blue?logo=Linkedin&logoColor=blue&labelColor=black" />
   </a>
-</div>
+</p>
+
 </br>
 
 Master of Applied Science (M.A.Sc.), Mechanical Engineering  
