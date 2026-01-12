@@ -31,7 +31,7 @@ In my free time I enjoy skiing :skier:, surfing :surfing_man:, rock climbing :cl
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="50" width="50"/>
   <img src="https://picknik.ai/assets/images/blog_posts/ROS2/ros2.png" height="60" width="60"/>
   <img src="https://siminnovations.com/wiki/images/7/7a/Arduino_logo_round.png" height="50" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" height="50" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/250px-Matlab_Logo.png" height="50" width="50"/>
   <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" height="78" width="132"/>
   <img src="https://wyday.com/images/lm/langs/vba.1.svg" height="50" width="50"/>
 </p>
